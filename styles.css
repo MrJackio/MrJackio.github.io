@@ -23,9 +23,18 @@ a{
 }
 
 img{
-  max-width: 150px;
+  width: 150px;
   margin-left: -10px;
   margin-right: 10px;
+}
+
+.prez{
+  margin-left: 100px;
+  width:450px;
+}
+.prez2{
+  margin-left: 100px;
+  width:200px;
 }
 
 .content{
@@ -39,6 +48,13 @@ img{
 .bg{
   width:auto;
   height:100%;
+  max-width: auto;
+  background-color: Black;
+
+}
+.bg2{
+  width:auto;
+  height:290%;
   max-width: auto;
   background-color: Black;
 
