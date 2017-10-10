@@ -77,3 +77,11 @@ img{
 .bold{
   font-weight: bolder
 }
+
+.topBar {
+	height: 100px;
+	background-color: #4050cb;
+}
+.main {
+	background-color: #e9ebee;
+}
