@@ -54,7 +54,7 @@ img{
 }
 .bg2{
   width:auto;
-  height:340%;
+  height:350%;
   max-width: auto;
   background-color: Black;
 
@@ -78,10 +78,4 @@ img{
   font-weight: bolder
 }
 
-.topBar {
-	height: 100px;
-	background-color: #4050cb;
-}
-.main {
-	background-color: #e9ebee;
-}
+
