@@ -1,0 +1,14 @@
+@charset "UTF-8";
+/* CSS Document */
+
+h1{
+	color: #ffffff;
+}
+
+.topBar {
+	height: 100px;
+	background-color: #4050cb;
+}
+.main {
+	background-color: #e9ebee;
+}
